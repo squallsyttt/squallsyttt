@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @squallsyttt
-- 👀 I’m interested in php
-- 🌱 I’m currently learning how to generate business proj
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in php && golang
+- 🌱 I’m currently learning goframe
+- 💞️ I’m looking to collaborate on nantong
 - 📫 How to reach me 390239178@qq.com
 
 <!---
